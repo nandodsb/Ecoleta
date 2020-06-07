@@ -88,7 +88,7 @@ const Home: React.FC = () => {
         <View style={styles.footer}>
         <RNPickerSelect
           placeholder={{ label: 'Selecione um estado' }}
-          Icon={() => <Icon name="chevron-down" size={20} color="#6C6C80" />}
+          Icon={() => <Icon name="chevron-down" size={20} color="#34CB79" />}
           style={{
             placeholder: {
               fontFamily: 'Roboto_400Regular',
@@ -114,7 +114,7 @@ const Home: React.FC = () => {
 
         <RNPickerSelect
           placeholder={{ label: 'Selecione uma cidade' }}
-          Icon={() => <Icon name="chevron-down" size={20} color="#6C6C80" />}
+          Icon={() => <Icon name="chevron-down" size={20} color="#34CB79" />}
           style={{
             placeholder: {
               fontFamily: 'Roboto_400Regular',
@@ -141,7 +141,7 @@ const Home: React.FC = () => {
         <RectButton style={styles.button} onPress={NavigateToPoints}>
           <View style={styles.buttonIcon}>
             <Text>
-              <Icon name="arrow-right" size={24} color="#fff" />
+              <Icon name="arrow-right" size={24} color="#FFF" />
             </Text>
           </View>
           <Text style={styles.buttonText}>Entrar</Text>
@@ -187,7 +187,7 @@ const styles = StyleSheet.create({
 
   input: {
     height: 60,
-    backgroundColor: '#FFF',
+    backgroundColor: '#34CB79',
     borderRadius: 10,
     marginBottom: 8,
     paddingHorizontal: 24,
