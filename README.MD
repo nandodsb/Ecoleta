@@ -82,5 +82,5 @@ Este projeto está sobre a Licença do MIT. Acesse a <a href="https://github.com
 
 
 <footer align="center">
- <strong>Made with 💜 by Fernando Batista</strong>
+ <strong align="center">Made with 💜 by Fernando Batista</strong>
 </footer>
