@@ -6,10 +6,10 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/Nandosbx/Ecoleta) ![GitHub top language](https://img.shields.io/github/languages/top/Nandosbx/Ecoleta) ![GitHub last commit](https://img.shields.io/github/last-commit/Nandosbx/Ecoleta) ![GitHub repo size](https://img.shields.io/github/repo-size/Nandosbx/Ecoleta) ![GitHub issues](https://img.shields.io/github/issues/Nandosbx/Ecoleta)
 
 📑##Índice
-- #####[Sobre](https://github.com/Nandosbx/Ecoleta#Sobre "Sobre")
-- #####[Documentação](https://github.com/Nandosbx/Ecoleta#Documentação "Documentação")
+- ##### [Sobre](https://github.com/Nandosbx/Ecoleta#Sobre "Sobre")
+- ##### [Documentação](https://github.com/Nandosbx/Ecoleta#Documentação "Documentação")
 - ##### [Tecnologias](https://github.com/Nandosbx/Ecoleta#Tecnologias "Tecnologias")
-- #####[Como contribuir](https://github.com/Nandosbx/Ecoleta#como-contribuir "Como contribuir")
+- ##### [Como contribuir](https://github.com/Nandosbx/Ecoleta#como-contribuir "Como contribuir")
 - ##### [Quem ministrou](https://github.com/Nandosbx/Ecoleta#Documentação "Documentação")
 - ##### [License](https://github.com/Nandosbx/Ecoleta#Licença "Licença") 
 
