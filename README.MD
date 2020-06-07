@@ -8,12 +8,12 @@
 
 <h2>📑Índice</h2>
 
-- [Sobre](https://github.com/Nandosbx/Ecoleta#Sobre "Sobre")
-- [Documentação](https://github.com/Nandosbx/Ecoleta#Documentação "Documentação")
-- [Tecnologias](https://github.com/Nandosbx/Ecoleta#Tecnologias "Tecnologias")
-- [Como contribuir](https://github.com/Nandosbx/Ecoleta#como-contribuir "Como contribuir")
-- [Quem ministrou](https://github.com/Nandosbx/Ecoleta#Documentação "Documentação")
-- [License](https://github.com/Nandosbx/Ecoleta#License "License") 
+- [Sobre](https://github.com/Nandosbx/Ecoleta#/blob/master/README.mdSobre "Sobre")
+- [Documentação](https://github.com/Nandosbx/Ecoleta/blob/master/README.md#Documentação "Documentação")
+- [Tecnologias](https://github.com/Nandosbx/Ecoleta/blob/master/README.md#Tecnologias "Tecnologias")
+- [Como contribuir](https://github.com/Nandosbx/Ecoleta/blob/master/README.md#como-contribuir "Como contribuir")
+- [Quem ministrou](https://github.com/Nandosbx/Ecoleta/blob/master/README.md#Documentação "Documentação")
+- [License](https://github.com/Nandosbx/Ecoleta/blob/master/README.md#Licença "Licença") 
   
 
 <h2>📖 Sobre</h2>
@@ -69,7 +69,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 ------------
 
 <h2>🎓 Quem ministrou?</h2>
-A Next Level Week foi ministrada pelo <a href="https://github.com/diego3g">Diego Fernandes</a> da <a href="https://rocketseat.com.br/">Rocketseat</a> <img src="./.github/rocketseatEmoji.png" width="3%" height="3%"/>
+A Next Level Week foi ministrada pelo <a href="https://github.com/diego3g">Diego Fernandes</a> da <a href="https://rocketseat.com.br/">Rocketseat</a><img src="./.github/rocketseatEmoji.png" width="3%" height="3%"/>
 
 ------------
 
