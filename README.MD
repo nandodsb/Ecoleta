@@ -6,21 +6,19 @@
 ![GitHub top language](https://img.shields.io/github/languages/count/Nandosbx/Ecoleta) 
 ![GitHub top language](https://img.shields.io/github/languages/top/Nandosbx/Ecoleta) ![GitHub last commit](https://img.shields.io/github/last-commit/Nandosbx/Ecoleta) ![GitHub repo size](https://img.shields.io/github/repo-size/Nandosbx/Ecoleta) ![GitHub issues](https://img.shields.io/github/issues/Nandosbx/Ecoleta)
 
-<h2>📑Índice</h2>
-
-- [Sobre](https://github.com/Nandosbx/Ecoleta#/blob/master/README.mdSobre "Sobre")
-- [Documentação](https://github.com/Nandosbx/Ecoleta/blob/master/README.md#Documentação "Documentação")
-- [Tecnologias](https://github.com/Nandosbx/Ecoleta/blob/master/README.md#Tecnologias "Tecnologias")
-- [Como contribuir](https://github.com/Nandosbx/Ecoleta/blob/master/README.md#como-contribuir "Como contribuir")
-- [Quem ministrou](https://github.com/Nandosbx/Ecoleta/blob/master/README.md#Documentação "Documentação")
-- [License](https://github.com/Nandosbx/Ecoleta/blob/master/README.md#Licença "Licença") 
-  
+ 
 
 <h2>📖 Sobre</h2>
 
 Projeto Ecoleta desenvolvido para criar uma conexão entre pessoas e empresas, que coletam resíduos orgânicos e inorgânicos, às pessoas e entidades na coleta seletiva de descartes recicláveis.
 
 ------------
+<h2>🔖 Layout</h2>
+
+Acesse aqui o layout da ferramenta <a href="https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=0%3A1">Figma</a>.
+
+------------
+
 <h2>📚 Documentação</h2>
 
 Aqui será adicionada uma documentação.
