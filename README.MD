@@ -3,6 +3,10 @@
 <img src="./.github/Ecoleta.png"/>
 </p>
 
+<p align="center">
+<img src="./.github/Ecoleta.gif"/>
+</p>
+
 ![GitHub top language](https://img.shields.io/github/languages/count/Nandosbx/Ecoleta) 
 ![GitHub top language](https://img.shields.io/github/languages/top/Nandosbx/Ecoleta) ![GitHub last commit](https://img.shields.io/github/last-commit/Nandosbx/Ecoleta) ![GitHub repo size](https://img.shields.io/github/repo-size/Nandosbx/Ecoleta) ![GitHub issues](https://img.shields.io/github/issues/Nandosbx/Ecoleta)
 
