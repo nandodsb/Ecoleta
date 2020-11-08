@@ -81,7 +81,7 @@ Happy was developed by <a href="https://github.com/diego3g">Diego Fernandes</a> 
 ------------
 
 
-<h2>License</h2>
+<h2>📃License</h2>
 
 This project is under MIT License. Access <a href="https://github.com/Nandosbx/Ecoleta/blob/master/LICENSE.md">Licença</a> and learn more.
 
