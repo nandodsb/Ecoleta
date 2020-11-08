@@ -3,35 +3,41 @@
 <img src="./.github/Ecoleta.png"/>
 </p>
 
+<div align="center">
+<img src="https://img.shields.io/badge/ROCKETSEAT-NLW%203.0-34CB79?style=for-the-badge&logo=appveyor"/><img src="https://img.shields.io/badge/LICENSE-MIT-34CB79?style=for-the-badge&logo=appveyor" />
+
+![GitHub top language](https://img.shields.io/github/languages/count/Nandosbx/Ecoleta?color=34CB79&&style=flat-square&logo=appveyor) 
+![GitHub top language](https://img.shields.io/github/languages/top/Nandosbx/Ecoleta?color=34CB79&&style=flat-square&logo=appveyor) ![GitHub last commit](https://img.shields.io/github/last-commit/Nandosbx/Ecoleta?color=34CB79&&style=flat-square&logo=appveyor) ![GitHub repo size](https://img.shields.io/github/repo-size/Nandosbx/Ecoleta?color=34CB79&&style=flat-square&logo=appveyor) ![GitHub issues](https://img.shields.io/github/issues/Nandosbx/Ecoleta?color=34CB79&&style=flat-square&logo=appveyor)
+
+</div>
+
 <p align="center">
 <img src="./.github/Ecoleta.gif"/>
 </p>
 
-![GitHub top language](https://img.shields.io/github/languages/count/Nandosbx/Ecoleta) 
-![GitHub top language](https://img.shields.io/github/languages/top/Nandosbx/Ecoleta) ![GitHub last commit](https://img.shields.io/github/last-commit/Nandosbx/Ecoleta) ![GitHub repo size](https://img.shields.io/github/repo-size/Nandosbx/Ecoleta) ![GitHub issues](https://img.shields.io/github/issues/Nandosbx/Ecoleta)
+<h2>📖 About</h2>
 
- 
 
-<h2>📖 Sobre</h2>
-
-Projeto Ecoleta desenvolvido para criar uma conexão entre pessoas e empresas, que coletam resíduos orgânicos e inorgânicos, às pessoas e entidades na coleta seletiva de descartes recicláveis.
+The Ecoleta Project was developed to create a connection between people and companies, which collect organic and inorganic waste, to people and entities in the selective collection of recyclable waste.
 
 ------------
 <h2>🔖 Layout</h2>
+<div align="justify">
 
-Acesse aqui o layout da ferramenta no <a href="https://www.figma.com/file/9TlOcj6l7D05fZhU12xWT3/Ecoleta-(Booster)?node-id=0%3A1">Figma</a>.
-
-------------
-
-<h2>📚 Documentação</h2>
-
-Aqui será adicionada uma documentação.
+💻📱 &nbsp;Check the layout on <a href="https://www.figma.com/file/cF9QZnP7ogR3vKQMeowzTd/Ecoleta">Figma</a>.
 
 ------------
 
-<h2>🚀 Tecnologias</h2>
+<h2>📚 Documentation</h2>
 
-Este projeto foi desenvolvido com as seguintes tecnologias:
+🚧Under construction🚧.
+Access <a href="https://github.com/Nandosbx/Ecoleta/blob/master/DOCUMENTATION.md">Documentation</a> and learn more.
+
+------------
+
+<h2>🚀 Technologies</h2>
+
+This project was developed with:
 - [NodeJs](https://nodejs.org/en/ "NodeJs")
 - [Express](https://expressjs.com/ "Express")
 - [Expo-Cli](https://expo.io/tools#cli "Expo-Cli")
@@ -42,7 +48,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 ------------
 
 
-<h3>Dependências</h3>
+<h3>Dependencies</h3>
 
 - [Express](https://expressjs.com/ "Express")
 - [KnexJS](http://knexjs.org/ "KnexJS")
@@ -57,28 +63,27 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ------------
 
+<h2>♻️ How to Contribute</h2>
 
-<h2>♻️ Como Contribuir</h2>
+- Fork this repository;
 
-- Fork este repositório;
+- Make a branch with your feature: `git checkout -b my-feature`
 
-- Crie uma branch com a sua feature: `git checkout -b my-feature`
+- Commit your changes: `git commit -m 'feat: My new feature'`
 
-- Commit suas mudanças: `git commit -m 'feat: My new feature'`
-
-- Push a sua branch: `git push origin my-feature`
-
-------------
-
-<h2>🎓 Quem ministrou?</h2>
-A Next Level Week foi ministrada pelo <a href="https://github.com/diego3g">Diego Fernandes</a> da <a href="https://rocketseat.com.br/">Rocketseat</a><img src="./.github/rocketseatEmoji.png" width="3%" height="3%"/>
+- Push your branch: `git push origin my-feature`
 
 ------------
 
+<h2>🎓 Developed by</h2>
+Happy was developed by <a href="https://github.com/diego3g">Diego Fernandes</a> from <a href="https://rocketseat.com.br/">Rocketseat</a> in the Next Level Week 1.0.
 
-<h2>📃Licença</h2>
+------------
 
-Este projeto está sobre a Licença do MIT. Acesse a <a href="https://github.com/Nandosbx/Ecoleta/blob/master/LICENSE.md">Licença</a> e saiba mais.
+
+<h2>License</h2>
+
+This project is under MIT License. Access <a href="https://github.com/Nandosbx/Ecoleta/blob/master/LICENSE.md">Licença</a> and learn more.
 
 ------------
 
