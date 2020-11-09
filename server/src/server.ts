@@ -2,9 +2,9 @@ import express from 'express';
 import path from 'path';
 import cors from 'cors';
 import routes from './routes';
-import { errors } from "celebrate";
+import { errors } from 'celebrate'
 
-const app = express();
+const app = express()
 
 app.use(cors());
 app.use(express.json())
