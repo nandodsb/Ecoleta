@@ -1,4 +1,4 @@
-<h1 align="center">♻️Ecoleta♻️</h1>
+<h1 align="center">Next Level Week 1.0</h1>
 <p align="center">
 <img src="./.github/Ecoleta.png"/>
 </p>
